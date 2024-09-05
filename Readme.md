@@ -1,4 +1,4 @@
-#bloomz_lora
+# bloomz_lora
 改项目实现以下功能：
 1. 基于开源语料和ChatGPT，生成用于微调的指令数据集。
 2. 对开源模型bloomz进行微调，使其适用于特定问答场景。
