@@ -1,1 +1,1 @@
-Finetune open source LLM Bloomz with lora. 
+对开源模型bloomz进行微调，使其适用于核保问答场景。
